@@ -3,6 +3,7 @@
 ################################################################################
 
 /.vs
-/PhoneBook/.vs/PhoneBook/FileContentIndex
-/PhoneBook/obj
-/PhoneBook/.vs/PhoneBook/v17
+/.vs/
+/obj/
+/PhoneBook/.vs/
+/PhoneBook/obj/
